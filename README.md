@@ -51,12 +51,11 @@ operating region: √κ < 20 and √det ≥ 1.
 
 If this code helped your research, please cite:
 
-@misc{laksari2025jacobian,
-  title   = {Stress–Material Jacobian Framework for Repeatable Hyperelastic Characterisation},
-  author  = {Asadi, A. and Laksari, K.},
-  year    = {2025},
-  note    = {GitHub repository \url{https://github.com/klaksari/optimal_hyperelastic_parameter_ID}}
-}
+
+title   = {Stress–Material Jacobian Framework for Repeatable Hyperelastic Characterisation},
+author  = {Asadi, A. and Laksari, K.},
+year    = {2025},
+note    = {GitHub repository \url{https://github.com/klaksari/optimal_hyperelastic_parameter_ID}}
 
 
 Happy Stretching!
