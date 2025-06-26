@@ -55,7 +55,7 @@ If this code helped your research, please cite:
 title   = {Stress–Material Jacobian Framework for Repeatable Hyperelastic Characterisation},
 author  = {Asadi, A. and Laksari, K.},
 year    = {2025},
-note    = {GitHub repository \url{https://github.com/klaksari/optimal_hyperelastic_parameter_ID}}
+note    = {GitHub repository url: https://github.com/klaksari/optimal_hyperelastic_parameter_ID }
 
 
 Happy Stretching!
